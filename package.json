@@ -9,7 +9,6 @@
     "dist:dir": "yarn dist --dir -c.compression=store -c.mac.identity=null"
   },
   "dependencies": {
-    "js-yaml": "^3.13.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "source-map-support": "^0.5.13"
@@ -22,5 +21,8 @@
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.0",
     "webpack": "^4.40.2"
+  },
+  "resolutions": {
+    "js-yaml": "^3.13.1"
   }
 }
