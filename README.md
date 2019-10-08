@@ -1,5 +1,5 @@
-# electron-react-sass
-An electron boilerplate with react and sass support 
+# electron-react-sass-ts
+An electron boilerplate with react, sass and typescript support 
 
 ## Getting Started
 Simply clone down this repository, install dependencies, and get started on your application.
