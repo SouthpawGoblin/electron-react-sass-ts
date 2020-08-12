@@ -1,5 +1,5 @@
-# electron-react-sass-ts
-An Electron boilerplate with React, Sass and Typescript support out of the box.
+# electron-react-ts
+An Electron boilerplate with React and Typescript support out of the box.Styled-components is used for styling.
 
 ## Getting Started
 Simply clone down this repository, install dependencies, and get started on your application.
